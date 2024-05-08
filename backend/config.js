@@ -1,4 +1,4 @@
 export const PORT = 5555;
 
 export const mongoDBURL =
-  "mongodb+srv://iamabhay:0987@cluster0.gwkkehz.mongodb.net/Cluster0?retryWrites=true&w=majority";
+  "mongodb+srv://iamabhayagarwal121:2p37iGwY6W9mR2XX@books-store.ajmkuxp.mongodb.net/?retryWrites=true&w=majority&appName=books-store";
